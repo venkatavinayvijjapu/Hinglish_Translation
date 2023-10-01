@@ -1,4 +1,4 @@
-# Hinglish_Translationt
+# Hinglish_Translation
 ## Introduction
 The Project aims to translate the sentences from English to Hindi. To do this so I have used two methods using transformers and Large Language Models. To use large language models we need to replace openai API key.
 
