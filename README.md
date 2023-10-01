@@ -2,7 +2,7 @@
 ## Introduction
 The Project aims to translate the sentences from English to Hindi. To do this so I have used two methods using transformers and Large Language Models. To use large language models we need to replace openai API key.
 
-*** Dataset Used: ***
+### Dataset Used: ###
 I have used cfilt/iitb-english-hindi dataset which contains all the english, hindi text which are total three classes train, test, validation.
 
 ## Getting Started
