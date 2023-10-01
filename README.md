@@ -21,7 +21,14 @@ I have used cfilt/iitb-english-hindi dataset which contains all the english, hin
 - jupyter notebook or vscode.
 
 ### Input:
+
 My name vinay, how are you.
 
 ### Output:
 मेरा नाम विधा, आप कैसे हैं।
+
+Uploading En_Hi_language_translation - Google Chrome 2023-10-01 17-54-06.mp4…
+
+Uploading En_Hi_language_translation - Google Chrome 2023-10-01 17-54-06.mp4…
+
+
